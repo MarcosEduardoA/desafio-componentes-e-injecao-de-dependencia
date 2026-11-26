@@ -14,17 +14,17 @@ O sistema calcula o valor total de um pedido a partir de três dados de entrada:
 
 
 Tecnologias utilizadas:
+
 ●Java 
 
 ●Spring Boot
 
 ●Maven
 
-Como executar o projeto
-Clone este repositório:
+## Como executar o projeto
 
-Bash git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+1. Baixe ou clone o projeto para a sua máquina.
 
-Abra o projeto em sua IDE Java de preferência (como Spring Tool Suite ou IntelliJ IDEA).
+2. Abra a pasta do projeto em sua IDE Java (ex.: Spring Tool Suite ou IntelliJ IDEA).
 
-Execute a classe principal da aplicação (CalculateOrderTotalValueApplication.java) e acompanhe a saída no console.
+3. Execute a classe principal da aplicação e acompanhe a saída no console.
