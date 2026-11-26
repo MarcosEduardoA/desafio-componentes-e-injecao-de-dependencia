@@ -10,10 +10,11 @@ O sistema calcula o valor total de um pedido a partir de três dados de entrada:
 
 ## Exemplos de entrada e saída
 
-<img width="802" height="473" alt="image" src="https://github.com/user-attachments/assets/00e30c55-9b54-44c6-9d9d-c7ae86b66eca" />
+<img width="811" height="463" alt="image" src="https://github.com/user-attachments/assets/0ff5bccb-320d-4769-8e0e-367f0d2e51e9" />
 
 
-Tecnologias utilizadas:
+
+## Tecnologias utilizadas:
 
 ●Java 
 
